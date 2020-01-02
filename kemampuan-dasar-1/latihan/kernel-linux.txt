@@ -1,0 +1,33 @@
+Lokasi file kernel berada di lokasi: /boot
+
+
+memtest86+.bin
+
+program memori tes software yang didesain untuk mengetes dan 'stress test' sebuah x86 arsitektur komputer RAM untuk error, dengan menulis pola tes pada sebagian besar alamat memori, membaca back data, dan membandingkan untuk eror.
+
+
+vmlinuz-4.4.0-133-generic
+
+ini adalah file kernel yang dapat dieksekusi. Proses boot berasal dari sini.
+
+
+system.map-4.4.0-134-generic
+
+ini adalah file tabel simbol yang digunakan oleh kernel. 
+
+initrd.img-4.4.0-133-generic
+
+ini adalh file initial RAM disk adalah inisial root file system yang dimount ketika root file system yang asli tersedia.File ini terikat dengan kernel dan dijalankan bersamaan dengan prosedur kernel boot. 
+
+ 	 
+config-4.4.0-141-generic
+
+ini adalah file yang digunakan untuk mengkonfigurasi parameter dan pengaturan inisial untuk beberapa program komputer. 
+
+
+abi-4.4.0-133-generic
+
+abi adalah singkatan dari application binary interface dan menspesifikasikan low-level interface diantara sistem operasi dan potongan kode yang dapat dieksekusi. Menspesifikasikan sistem operasi dan aplikasi interface yang penting dalam membangun environment excecution untuk aplikasi.
+
+
+

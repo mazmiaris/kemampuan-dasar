@@ -1,0 +1,9 @@
+ares26@ares26-X450JN:~$ bash latihan.sh
+60
+ares26@ares26-X450JN:~/kemampuan-dasar/kemampuan-dasar/latihan/shellscript$ bash while_loop.sh
+1
+2
+3
+4
+5
+
